@@ -29,14 +29,23 @@ https://infraopsmonitor-taylorr-project.azurewebsites.net
 
 Swagger API:
 https://infraopsmonitor-taylorr-project.azurewebsites.net/swagger
+
+Repository: 
+https://github.com/reginaldtaylorjr-lab/InfraOpsMonitor
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 ### TechOpsDashboard
 Operational workflow and work order management dashboard built with ASP.NET Core MVC and SQL Server.
+
+Repository: 
+https://github.com/reginaldtaylorjr-lab/TechOpsDashboard
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 ### WarehouseDashboard
 Warehouse operational monitoring dashboard inspired by industrial automation and warehouse control systems.
+
+Repository: 
+https://github.com/reginaldtaylorjr-lab/WarehouseDashboard
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 ## Contact
@@ -45,3 +54,5 @@ LinkedIn: (add later) /
 Email: reginaldltaylorjr@gmail.com / 
 Phone: (704) 634-3002
 ______________________________________________________________________________________________________________________________________________________________________________________
+
+Currently focused on expanding cloud infrastructure, systems engineering, and DevOps capabilities through Azure-hosted operational platforms and enterprise-style monitoring applications.
